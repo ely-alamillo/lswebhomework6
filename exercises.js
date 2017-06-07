@@ -1,3 +1,27 @@
+// Feynman Writing Prompts - Write out explanations of the following concepts
+// like you are explaining it to a 12 year old.
+
+  // Functions
+  //   functions are like a set of rules that you define that do something for
+  //   you like add two numbers
+  //
+  // Parameters
+  //   parameters are things a function can take to do something, like an addition
+  //   function can take numberOne and numberTwo
+  //
+  // Arguments
+  //   arguments are things you give to a function to do something with them, like
+  //   if you wanted to add one and two then one and two would be considered arguments
+  //
+  // if statements
+  //   an if statements is a block of code that can only happen if something is true,
+  //   like "eat some ice cream only if you have cleaned yor room ". In that example
+  //   we see that if you have cleaned your room you may eat ice cream so 'IF' room
+  //   clean the do eat ice cream.
+  //
+
+
+
 //Do not change any of the function names
 
 function multiplyByTen(num) {
